@@ -8,7 +8,7 @@ Follow these steps to host the site on Netlify and configure the Steam API key.
 
 ## 1. Get a Steam Web API Key
 
-1. Log in to Steam and go to: **https://steamcommunity.com/dev/apikey**
+1. Log in to Steam and go to: **https://steamcommunity.comz/dev/apikey**
 2. Enter a domain name (e.g. `localhost` for testing, or your Netlify site URL later).
 3. Agree to the terms and click **Register**. Copy the key; you’ll add it to Netlify in step 4.
 
